@@ -11,15 +11,17 @@
  * Created on 19. Dezember 2018, 13:17
  */
 
-#include <cstdlib>
+#include "std_lib_facilities.h"
 
 using namespace std;
 
 /*
  * 
  */
-int main(int argc, char** argv) {
+int main() {
 
+    cout << "Hello, programming!\nHere we go!\n";
+    
     return 0;
 }
 
